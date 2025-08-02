@@ -69,8 +69,7 @@ car-sales-dashboard/
 
 Here’s a glimpse of the interactive Car Sales Dashboard created using Power BI.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
+![Dashboard Screenshot] (https://github.com/VandanaPrajapti04/Car-Sale-Dashboard/tree/main/Screenshot.png)
 
 🚀 How to View
 
